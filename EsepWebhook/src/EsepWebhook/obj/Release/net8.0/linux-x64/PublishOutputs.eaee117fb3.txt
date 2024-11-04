@@ -1,0 +1,6 @@
+/Users/turkprodigy/Documents/UF/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.deps.json
+/Users/turkprodigy/Documents/UF/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.runtimeconfig.json
+/Users/turkprodigy/Documents/UF/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
+/Users/turkprodigy/Documents/UF/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/Users/turkprodigy/Documents/UF/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/turkprodigy/Documents/UF/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll
