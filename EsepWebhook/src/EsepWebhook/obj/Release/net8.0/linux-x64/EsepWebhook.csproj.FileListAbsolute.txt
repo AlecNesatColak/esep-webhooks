@@ -15,3 +15,5 @@
 /Users/turkprodigy/Documents/UF/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.pdb
 /Users/turkprodigy/Documents/UF/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.genruntimeconfig.cache
 /Users/turkprodigy/Documents/UF/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/ref/EsepWebhook.dll
+/Users/turkprodigy/Documents/UF/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.sourcelink.json
+/Users/turkprodigy/Documents/UF/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Newtonsoft.Json.dll
